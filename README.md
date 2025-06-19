@@ -1,5 +1,7 @@
 npm install js-cookie
+
 json-server -w db.json -p 3001
+
 npm run dev 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
